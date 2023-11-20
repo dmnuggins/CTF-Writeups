@@ -1,8 +1,10 @@
+# Mr Robot
+
 Hello world! Today I'll be detailing the steps I took to hack VulnHub's [Mr-Robot: 1](https://www.vulnhub.com/entry/mr-robot-1,151/) VM, created by Leon Johnson. The VM has three keys hidden in different locations and my goal is to find all three.
 
 ## Configuration
 
-I'll be using a [Kali Linux](https://www.kali.org/) VM to attack Mr-Robot: 1, which we will refer to as "target" throughout the write-up. Both machines are set up on [Oracle VM VirtualBox](https://www.virtualbox.org) and their networks are set to the `Host Only Network`.
+I'll be using a [Kali Linux VM](https://www.kali.org/) to attack Mr-Robot: 1, which we will refer to as "target" throughout the write-up. Both machines are set up on [Oracle VM VirtualBox](https://www.virtualbox.org) and their networks are set to the `Host Only Network`.
 
 Let's start hacking!
 
